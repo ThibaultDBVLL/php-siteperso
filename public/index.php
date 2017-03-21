@@ -1,6 +1,6 @@
 <?php
-/* on affiche  les erreurs, 
-si vous avez une erreur 500, 
+/* on affiche  les erreurs,
+si vous avez une erreur 500,
 regardez dans votre console */
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
@@ -14,3 +14,7 @@ require __DIR__ . '/../lib/functions.php';
 // l'exemple avec le header, à vous de jouer pour le reste
 getPart('header');
 
+
+
+
+?>
