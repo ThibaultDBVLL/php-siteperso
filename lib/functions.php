@@ -11,6 +11,7 @@ function getContent(){
 		include __DIR__.'/../pages/home.php';
 	} else {
 		// le reste du code
+		include __DIR__.'/../pages/contact.php';
 	}
 }
 

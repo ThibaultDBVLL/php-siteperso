@@ -8,7 +8,8 @@ put some header here
   </head>
   <body>
     <?php
-      include "menu.php"
+      include "menu.php";
+      echo(coucou);
     ?>
   </body>
 </html>
