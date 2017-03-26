@@ -1,15 +1,14 @@
-put some header here
-<!DOCTYPE html>
-<html>
+
   <head>
     <meta charset="utf-8">
-    <title></title>
-    <link rel="stylesheet" type="text/css" href="../public/style.css">
+    <title>Header</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
+  <header>
+<h1>Header</h1>
+  </header>
     <?php
       include "menu.php";
-      echo(coucou);
     ?>
   </body>
-</html>

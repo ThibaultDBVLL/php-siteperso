@@ -1,14 +1,12 @@
-put some footer here
-
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title>Footer</title>
 </head>
 <body>
+<h1>Footer</h1>
 
-
-  <script type="text/javascript" src="../public/app.js"></script>
+  <script type="text/javascript" src="app.js"></script>
 </body>
 </html>
